@@ -5,12 +5,12 @@ I'm a Python Development.
 ## 🚀 About Me:
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning Data Scientist.
-- 👯‍♀️ I'm looking to collaborate on 
-- 🤔 I'm looking for help with P2P
+- 👯‍♀️ I'm looking to collaborate on any project.
+- 🤔 I'm looking for help with P2P.
 - 📫 My mail: josfrax@gmail.com
 
 ## 🛠 Skills:
-Python, Docker, Javascript, HTML, CSS...
+Python, Mysql, Docker and JS
 
 
 ## 🔗 Links:
