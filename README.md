@@ -5,18 +5,18 @@ I'm a Python Development.
 ## 🚀 About Me:
 
 - 🔭 I’m currently working on my skills.
-- 🌱 I’m currently learning E-Commerce.
+- 🌱 I’m currently learning E-Commerce and English.
 - 👯‍♀️ I'm looking to collaborate on any project.
 - 📫 My mail: josfrax@gmail.com
 
 ## 🛠 Skills:
 
-Programming languages: Python, JavaScript, TypeScript
-Frameworks: Django, Angular, Express,
-Libraries: Pandas, Numpy, Request, Selenium,
-SMDB: Mysql, PostgreSql, MongoDB
-DevOps: Docker
-Others: HTML, CSS, NodeJs,
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks:** Django, Angular, Express,
+- **Libraries:** Pandas, Numpy, Request, Selenium,
+- **SMDB:** Mysql, PostgreSql, MongoDB
+- **DevOps:** Docker
+- **Others:** HTML, CSS, NodeJs,
 
 ## 🔗 Links:
 
